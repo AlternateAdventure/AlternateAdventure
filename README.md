@@ -1,10 +1,11 @@
+Welcome to the Alternate Adventure GitHub! Here, you can find releases of the mod as well as some other miscellaneous tid-bits here and there!
+
+<!---
+AlternateAdventure/AlternateAdventure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @AlternateAdventure
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-AlternateAdventure/AlternateAdventure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
